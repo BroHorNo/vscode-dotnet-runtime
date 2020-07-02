@@ -10,5 +10,7 @@
             "path": "vscode-dotnet-runtime-library"
         }
     ],
-    "settings": {}
+    "settings": {
+        "git.ignoreLimitWarning": true
+    }
 }
